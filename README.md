@@ -41,9 +41,9 @@ In the long term, I seek to contribute to strategic cloud initiatives, mentor ju
 
 <h2>👨‍💻 Professional Experience & Work</h2>
 
-- <b>AWS Architecture & Infrastructure</b>
-  - [Secure Multi-Account AWS Environment](https://github.com/yourusername/aws-multi-account)
-  - [High Availability Web App on AWS](https://github.com/yourusername/aws-ha-app)
+- <b>Identity and access management</b>
+
+  - [High Availability Web App on AWS](https://github.com/AdedayoAgbenla/aws-iam-security-implementation)
 
 - <b>Cloud Security & IAM</b>
   - [IAM Policy Optimization](https://github.com/yourusername/aws-iam-security)
