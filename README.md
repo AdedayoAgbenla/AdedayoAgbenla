@@ -46,20 +46,32 @@ In the long term, I seek to contribute to strategic cloud initiatives, mentor ju
   - [IAM Policy Optimization](https://github.com/AdedayoAgbenla/aws-iam-security-implementation)
 
 - <b>Cloud Security & IAM</b>
-  - [IAM Policy Optimization](https://github.com/yourusername/aws-iam-security)
-  - [Zero Trust Network Design](https://github.com/yourusername/aws-zero-trust)
+  - [IAM Policy Optimization](https://github.com/AdedayoAgbenla/aws-multiaccount-governance-framework)
+  - [Zero Trust Network Design](https://github.com/AdedayoAgbenla/aws-auto-remediation-framework)
 
 - <b>DevSecOps & Automation</b>
-  - [CI/CD Pipeline with Security Scanning](https://github.com/yourusername/devsecops-pipeline)
-  - [Infrastructure as Code (Terraform)](https://github.com/yourusername/terraform-aws)
+  - [CI/CD Pipeline with Security Scanning](https://github.com/AdedayoAgbenla/aws-security-design-governance)
+  - [Infrastructure as Code (Terraform)](https://github.com/AdedayoAgbenla/aws-cost-governance-optimization)
 
 - <b>Monitoring & Incident Response</b>
-  - [Cloud Logging & SIEM Integration](https://github.com/yourusername/aws-monitoring)
-  - [Incident Response Playbooks](https://github.com/yourusername/incident-response)
+  - [Cloud Logging & SIEM Integration](https://github.com/AdedayoAgbenla/aws-secrets-governance-aws)
+  - [Incident Response Playbooks](https://github.com/AdedayoAgbenla/aws-cloud-workload-hardening)
 
 - <b>AI & Cloud Security</b>
-  - [Securing LLM Workloads](https://github.com/yourusername/llm-security)
-  - [AI Risk Assessment Framework](https://github.com/yourusername/ai-risk)
+  - [Securing LLM Workloads](https://github.com/AdedayoAgbenla/aws-security-compliance-enforcement)
+  - [AI Risk Assessment Framework](https://github.com/AdedayoAgbenla/aws-incident-response-automation)
+
+- <b>DevSecOps & Automation</b>
+  - [CI/CD Pipeline with Security Scanning](https://github.com/AdedayoAgbenla/aws-siem-integration)
+  - [Infrastructure as Code (Terraform)](https://github.com/AdedayoAgbenla/aws-ci-cd-security-guardrails)
+
+- <b>Monitoring & Incident Response</b>
+  - [Cloud Logging & SIEM Integration](https://github.com/AdedayoAgbenla/aws-vulnerability-management-implementation)
+  - [Incident Response Playbooks](https://github.com/AdedayoAgbenla/aws-storage-encryption-implementation)
+
+- <b>AI & Cloud Security</b>
+  - [Securing LLM Workloads](https://github.com/AdedayoAgbenla/aws-secure-network-implementation)
+  - [AI Risk Assessment Framework](https://github.com/AdedayoAgbenla/aws-threat-detection-implementation)
 
 ---
 
