@@ -40,7 +40,7 @@ to strategic cloud transformation initiatives.
 
 ---
 
-<h2>👨‍💻 Professional Experience & Work</h2>
+<h2>👨‍💻 Selected Engagements. </h2>
 
 
   - [Enterprise Identity and Access Management (IAM) Governance Implementation for a Healthcare Technology Organization](https://github.com/AdedayoAgbenla/aws-iam-security-implementation)
@@ -87,40 +87,35 @@ to strategic cloud transformation initiatives.
     
   - [Cloud Threat Detection and Continuous Security Monitoring Framework Implementation for a SaaS Company](https://github.com/AdedayoAgbenla/aws-threat-detection-implementation)
 
+<h2>🔧 Core AWS Security Tools</h2>
 
-<h2>Core AWS Security Tools</h2>
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Technologies</th>
+  </tr>
+  <tr>
+    <td>Identity & Governance</td>
+    <td>AWS IAM, AWS Organizations, Service Control Policies (SCP), AWS Config</td>
+  </tr>
+  <tr>
+    <td>Monitoring & Threat Detection</td>
+    <td>Amazon GuardDuty, AWS Security Hub, Amazon Inspector, AWS CloudTrail</td>
+  </tr>
+  <tr>
+    <td>Automation & DevSecOps</td>
+    <td>AWS Lambda, Amazon EventBridge, Terraform, GitHub Actions</td>
+  </tr>
+  <tr>
+    <td>Data Protection</td>
+    <td>AWS KMS, AWS Secrets Manager, S3 Encryption, EBS Encryption</td>
+  </tr>
+</table>
 
-<h3>Identity & Governance</h3>
-<ul>
-  <li>AWS IAM</li>
-  <li>AWS Organizations</li>
-  <li>Service Control Policies (SCP)</li>
-  <li>AWS Config</li>
-</ul>
+<hr>
 
-<h3>Monitoring & Threat Detection</h3>
-<ul>
-  <li>Amazon GuardDuty</li>
-  <li>AWS Security Hub</li>
-  <li>Amazon Inspector</li>
-  <li>AWS CloudTrail</li>
-</ul>
 
-<h3>Automation & DevSecOps</h3>
-<ul>
-  <li>AWS Lambda</li>
-  <li>Amazon EventBridge</li>
-  <li>Terraform</li>
-  <li>GitHub Actions</li>
-</ul>
 
-<h3>Data Protection</h3>
-<ul>
-  <li>AWS KMS</li>
-  <li>AWS Secrets Manager</li>
-  <li>S3 Encryption</li>
-  <li>EBS Encryption</li>
-</ul>
 
 <h2>Security Frameworks & Standards Alignment</h2>
 
