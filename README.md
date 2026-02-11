@@ -22,6 +22,15 @@ My focus is on delivering secure, reliable, and cost-efficient cloud solutions w
 to strategic cloud transformation initiatives.
 </p>
 
+<h2>📊 Impact Highlights</h2>
+
+<ul>
+  <li><strong>Strengthened governance</strong> through multi-account Service Control Policy (SCP) enforcement.</li>
+  <li><strong>Reduced configuration drift</strong> through automated compliance monitoring and remediation workflows.</li>
+  <li><strong>Improved incident response readiness</strong> through centralized logging, monitoring, and threat detection architecture.</li>
+</ul>
+
+
 
 ---
 
@@ -40,7 +49,7 @@ to strategic cloud transformation initiatives.
 
 ---
 
-<h2>👨‍💻 Selected Engagements. </h2>
+<h2>👨‍💻 Selected Engagements </h2>
 
 
   - [Enterprise Identity and Access Management (IAM) Governance Implementation for a Healthcare Technology Organization](https://github.com/AdedayoAgbenla/aws-iam-security-implementation)
