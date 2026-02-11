@@ -86,6 +86,45 @@ In the long term, I seek to contribute to strategic cloud initiatives, mentor ju
     
   - [Cloud Threat Detection and Continuous Security Monitoring Framework Implementation for a SaaS Company](https://github.com/AdedayoAgbenla/aws-threat-detection-implementation)
 
+
+<h2>Core AWS Security Tools</h2>
+
+<h3>Identity & Governance</h3>
+<ul>
+  <li>AWS IAM</li>
+  <li>AWS Organizations</li>
+  <li>Service Control Policies (SCP)</li>
+  <li>AWS Config</li>
+</ul>
+
+<h3>Monitoring & Threat Detection</h3>
+<ul>
+  <li>Amazon GuardDuty</li>
+  <li>AWS Security Hub</li>
+  <li>Amazon Inspector</li>
+  <li>AWS CloudTrail</li>
+</ul>
+
+<h3>Automation & DevSecOps</h3>
+<ul>
+  <li>AWS Lambda</li>
+  <li>Amazon EventBridge</li>
+  <li>Terraform</li>
+  <li>GitHub Actions</li>
+</ul>
+
+<h3>Data Protection</h3>
+<ul>
+  <li>AWS KMS</li>
+  <li>AWS Secrets Manager</li>
+  <li>S3 Encryption</li>
+  <li>EBS Encryption</li>
+</ul>
+
+
+     
+
+
 ---
 
 <h2> 🤳 Connect with me:</h2>
