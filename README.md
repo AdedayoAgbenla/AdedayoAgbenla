@@ -121,6 +121,17 @@ In the long term, I seek to contribute to strategic cloud initiatives, mentor ju
   <li>EBS Encryption</li>
 </ul>
 
+<h2>Security Frameworks & Standards Alignment</h2>
+
+<ul>
+  <li>NIST Cybersecurity Framework (CSF)</li>
+  <li>NIST SP 800-53 Controls</li>
+  <li>CIS AWS Foundations Benchmark</li>
+  <li>ISO/IEC 27001 Controls</li>
+  <li>PCI-DSS Requirements</li>
+  <li>AWS Well-Architected Framework (Security Pillar)</li>
+</ul>
+
 
      
 
