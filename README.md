@@ -43,7 +43,7 @@ In the long term, I seek to contribute to strategic cloud initiatives, mentor ju
 
 - <b>Identity and access management</b>
 
-  - [IAM Policy Optimization](https://github.com/AdedayoAgbenla/aws-iam-security-implementation)
+  - [Enterprise Identity and Access Management (IAM) Governance Implementation for a Healthcare Technology Organization](https://github.com/AdedayoAgbenla/aws-iam-security-implementation)
 
 - <b>Cloud Security & IAM</b>
   - [IAM Policy Optimization](https://github.com/AdedayoAgbenla/aws-multiaccount-governance-framework)
