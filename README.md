@@ -50,7 +50,7 @@ In the long term, I seek to contribute to strategic cloud initiatives, mentor ju
   - [Automated Security Remediation and Server Hardening Framework Deployment for an Online Commerce Platform](https://github.com/AdedayoAgbenla/aws-auto-remediation-framework)
 
 - <b>DevSecOps & Automation</b>
-  - [Multi-Account Cloud Governance and Service Control Policy (SCP) Enforcement for a Financial Services Group](https://github.com/AdedayoAgbenla/aws-security-design-governance)
+  - [Secure Development Lifecycle (SDLC) Implementation and Application Security Governance Program for a Retail Technology Company](https://github.com/AdedayoAgbenla/aws-security-design-governance)
   - [Cloud Cost Optimization and Security Governance Assessment for a Growing Technology Organization](https://github.com/AdedayoAgbenla/aws-cost-governance-optimization)
 
 - <b>Monitoring & Incident Response</b>
