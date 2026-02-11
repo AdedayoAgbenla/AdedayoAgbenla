@@ -34,7 +34,6 @@ In the long term, I seek to contribute to strategic cloud initiatives, mentor ju
 - Cloud Monitoring & Logging  
 - Cloud Threat Modeling & Risk Assessment  
 - Cloud Incident Response & Forensics  
-- LLM & AI-Driven Cloud Security  
 - Cross-Team Collaboration  
 
 ---
