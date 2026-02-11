@@ -41,7 +41,6 @@ In the long term, I seek to contribute to strategic cloud initiatives, mentor ju
 
 <h2>👨‍💻 Professional Experience & Work</h2>
 
-- <b>Identity and access management</b>
 
   - [Enterprise Identity and Access Management (IAM) Governance Implementation for a Healthcare Technology Organization](https://github.com/AdedayoAgbenla/aws-iam-security-implementation)
 
