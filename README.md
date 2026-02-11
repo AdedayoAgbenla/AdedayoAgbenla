@@ -1,25 +1,27 @@
-<h1>Hi, I'm Adedayo! 
-  <br/>
-  <br/>
-<a href="https://github.com/yourusername">AWS Cloud Architect</a>, 
-<a href="https://www.linkedin.com/in/yourlinkedin">Cloud Security Specialist</a>, 
-<a href="#">DevSecOps Engineer</a>
-</h1>
+<h2>Hi, I'm Adedayo 👋</h2>
 
-<br/>
-<br/>
+<p><strong>AWS Cloud Architect | Cloud Security Specialist | DevSecOps Engineer</strong></p>
 
 <p>
-I am an AWS Cloud Architect with hands-on experience in designing, deploying, and securing scalable cloud environments.  
-I specialize in building reliable, cost-efficient, and highly available systems that meet business and compliance requirements.
-
-I have strong experience in cloud security architecture, identity and access management (IAM), network security, and data protection.  
-I work closely with development, operations, and security teams to integrate security best practices into daily workflows.
-
-My objective is to continuously develop my technical and leadership skills while delivering secure, scalable, and high-performing cloud solutions.  
-I aim to help organizations reduce operational risks, improve system reliability, optimize cloud costs, and adopt modern cloud technologies.  
-In the long term, I seek to contribute to strategic cloud initiatives, mentor junior engineers, and support digital transformation through secure and innovative cloud architectures.
+I design, deploy, and secure scalable AWS environments aligned with business,
+compliance, and operational requirements.
 </p>
+
+<p>
+My expertise includes cloud security architecture, identity and access management (IAM),
+network segmentation, encryption strategy, multi-account governance, and DevSecOps integration.
+</p>
+
+<p>
+I work closely with engineering and security teams to implement secure-by-design architectures
+that reduce operational risk, strengthen system resilience, and support long-term scalability.
+</p>
+
+<p>
+My focus is on delivering secure, reliable, and cost-efficient cloud solutions while contributing
+to strategic cloud transformation initiatives.
+</p>
+
 
 ---
 
