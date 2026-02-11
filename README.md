@@ -59,10 +59,10 @@ In the long term, I seek to contribute to strategic cloud initiatives, mentor ju
   - [Enterprise Secrets Management and Credential Protection Strategy for a Payment Processing Company](https://github.com/AdedayoAgbenla/aws-secrets-governance-aws)
 
     
-  - [Automated Security Remediation and Server Hardening Framework Deployment for an Online Commerce Platform](https://github.com/AdedayoAgbenla/aws-cloud-workload-hardening)
+  - [Container, Kubernetes, and Serverless Security Governance Implementation for a Cloud-Native Application Platform](https://github.com/AdedayoAgbenla/aws-cloud-workload-hardening)
 
   
-  - [Container, Kubernetes, and Serverless Security Governance Implementation for a Cloud-Native Application Platform](https://github.com/AdedayoAgbenla/aws-security-compliance-enforcement)
+  - [](https://github.com/AdedayoAgbenla/aws-security-compliance-enforcement)
 
     
   - [Cloud Incident Response and Forensic Readiness Program for a Mid-Sized Financial Institution](https://github.com/AdedayoAgbenla/aws-incident-response-automation)
