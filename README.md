@@ -165,7 +165,7 @@ For collaboration, professional discussions, or opportunities:
 </p>
 
 <p>
-📧 <strong>agbenladayo@gmail.com.com</strong>
+📧 <strong>agbenladayo@gmail.com</strong>
 </p>
 
      
