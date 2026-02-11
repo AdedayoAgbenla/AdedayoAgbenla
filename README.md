@@ -132,6 +132,41 @@ In the long term, I seek to contribute to strategic cloud initiatives, mentor ju
   <li>AWS Well-Architected Framework (Security Pillar)</li>
 </ul>
 
+<h2>⚠️ Professional Disclosure Notice</h2>
+
+<p>
+Due to confidentiality obligations and security agreements, specific organization names 
+and sensitive implementation details are not publicly disclosed within this repository.
+</p>
+
+<p>
+Many enterprises operate under strict non-disclosure and data protection policies that 
+prohibit the public sharing of client-identifying information. This portfolio focuses on 
+presenting the scope of work, security objectives, technical implementations, governance 
+strategies, and measurable outcomes—while maintaining full compliance with professional 
+ethics and privacy standards.
+</p>
+
+<p>
+All documentation reflects real-world security practices without compromising confidentiality.
+</p>
+
+<hr>
+
+<h2>🚀 Explore & Connect</h2>
+
+<p>
+You are welcome to review the repositories, explore the documentation, and examine the 
+security implementations provided.
+</p>
+
+<p>
+For collaboration, professional discussions, or opportunities:
+</p>
+
+<p>
+📧 <strong>agbenladayo@gmail.com.com</strong>
+</p>
 
      
 
