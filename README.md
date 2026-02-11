@@ -46,32 +46,32 @@ In the long term, I seek to contribute to strategic cloud initiatives, mentor ju
   - [Enterprise Identity and Access Management (IAM) Governance Implementation for a Healthcare Technology Organization](https://github.com/AdedayoAgbenla/aws-iam-security-implementation)
 
 - <b>Cloud Security & IAM</b>
-  - [IAM Policy Optimization](https://github.com/AdedayoAgbenla/aws-multiaccount-governance-framework)
-  - [Zero Trust Network Design](https://github.com/AdedayoAgbenla/aws-auto-remediation-framework)
+  - [Multi-Account Cloud Governance and Service Control Policy (SCP) Enforcement for a Financial Services Group](https://github.com/AdedayoAgbenla/aws-multiaccount-governance-framework)
+  - [Automated Security Remediation and Server Hardening Framework Deployment for an Online Commerce Platform](https://github.com/AdedayoAgbenla/aws-auto-remediation-framework)
 
 - <b>DevSecOps & Automation</b>
-  - [CI/CD Pipeline with Security Scanning](https://github.com/AdedayoAgbenla/aws-security-design-governance)
-  - [Infrastructure as Code (Terraform)](https://github.com/AdedayoAgbenla/aws-cost-governance-optimization)
+  - [Multi-Account Cloud Governance and Service Control Policy (SCP) Enforcement for a Financial Services Group](https://github.com/AdedayoAgbenla/aws-security-design-governance)
+  - [Cloud Cost Optimization and Security Governance Assessment for a Growing Technology Organization](https://github.com/AdedayoAgbenla/aws-cost-governance-optimization)
 
 - <b>Monitoring & Incident Response</b>
-  - [Cloud Logging & SIEM Integration](https://github.com/AdedayoAgbenla/aws-secrets-governance-aws)
-  - [Incident Response Playbooks](https://github.com/AdedayoAgbenla/aws-cloud-workload-hardening)
+  - [Enterprise Secrets Management and Credential Protection Strategy for a Payment Processing Company](https://github.com/AdedayoAgbenla/aws-secrets-governance-aws)
+  - [Automated Security Remediation and Server Hardening Framework Deployment for an Online Commerce Platform](https://github.com/AdedayoAgbenla/aws-cloud-workload-hardening)
 
 - <b>AI & Cloud Security</b>
-  - [Securing LLM Workloads](https://github.com/AdedayoAgbenla/aws-security-compliance-enforcement)
-  - [AI Risk Assessment Framework](https://github.com/AdedayoAgbenla/aws-incident-response-automation)
+  - [Container, Kubernetes, and Serverless Security Governance Implementation for a Cloud-Native Application Platform](https://github.com/AdedayoAgbenla/aws-security-compliance-enforcement)
+  - [Cloud Incident Response and Forensic Readiness Program for a Mid-Sized Financial Institution](https://github.com/AdedayoAgbenla/aws-incident-response-automation)
 
 - <b>DevSecOps & Automation</b>
-  - [CI/CD Pipeline with Security Scanning](https://github.com/AdedayoAgbenla/aws-siem-integration)
-  - [Infrastructure as Code (Terraform)](https://github.com/AdedayoAgbenla/aws-ci-cd-security-guardrails)
+  - [Centralized Logging, SIEM Integration, and Observability Architecture for a Multi-Account Cloud Environment](https://github.com/AdedayoAgbenla/aws-siem-integration)
+  - [DevSecOps Integration and Infrastructure-as-Code Security Enforcement for a Software Development Organization](https://github.com/AdedayoAgbenla/aws-ci-cd-security-guardrails)
 
 - <b>Monitoring & Incident Response</b>
-  - [Cloud Logging & SIEM Integration](https://github.com/AdedayoAgbenla/aws-vulnerability-management-implementation)
-  - [Incident Response Playbooks](https://github.com/AdedayoAgbenla/aws-storage-encryption-implementation)
+  - [Vulnerability Management and Patch Automation Implementation for a Cloud-Native Technology Company](https://github.com/AdedayoAgbenla/aws-vulnerability-management-implementation)
+  - [Enterprise Data Protection and Encryption Governance Program for a Financial Services Organization](https://github.com/AdedayoAgbenla/aws-storage-encryption-implementation)
 
 - <b>AI & Cloud Security</b>
-  - [Securing LLM Workloads](https://github.com/AdedayoAgbenla/aws-secure-network-implementation)
-  - [AI Risk Assessment Framework](https://github.com/AdedayoAgbenla/aws-threat-detection-implementation)
+  - [Secure Multi-Tier Cloud Network Architecture Design for a High-Availability E-Commerce Platform](https://github.com/AdedayoAgbenla/aws-secure-network-implementation)
+  - [Cloud Threat Detection and Continuous Security Monitoring Framework Implementation for a SaaS Company](https://github.com/AdedayoAgbenla/aws-threat-detection-implementation)
 
 ---
 
