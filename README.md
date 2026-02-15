@@ -139,10 +139,6 @@ to strategic cloud transformation initiatives.
 
 <h2>⚠️ Professional Disclosure Notice</h2>
 
-<p>
-Due to confidentiality obligations and security agreements, specific organization names 
-and sensitive implementation details are not publicly disclosed within this repository.
-</p>
 
 <p>
 Many enterprises operate under strict non-disclosure and data protection policies that 
@@ -152,9 +148,6 @@ strategies, and measurable outcomes—while maintaining full compliance with pro
 ethics and privacy standards.
 </p>
 
-<p>
-All documentation reflects real-world security practices without compromising confidentiality.
-</p>
 
 <hr>
 
@@ -170,7 +163,7 @@ For collaboration, professional discussions, or opportunities:
 </p>
 
 <p>
-📧 <strong>agbenladayo@gmail.com</strong>
+📧 <strong>Agbenladayo@gmail.com</strong>
 </p>
 
      
