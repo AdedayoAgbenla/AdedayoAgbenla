@@ -141,7 +141,7 @@ to strategic cloud transformation initiatives.
 
 
 <p>
-Many enterprises operate under strict non-disclosure and data protection policies that 
+Many Companies operate under strict non-disclosure and data protection policies that 
 prohibit the public sharing of client-identifying information. This portfolio focuses on 
 presenting the scope of work, security objectives, technical implementations, governance 
 strategies, and measurable outcomes—while maintaining full compliance with professional 
