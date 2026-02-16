@@ -163,7 +163,7 @@ For collaboration, professional discussions, or opportunities:
 </p>
 
 <p>
-📧 <strong>Agbenladayo@gmail.com</strong>
+📧 <strong>agbenladayo@gmail.com</strong>
 </p>
 
      
